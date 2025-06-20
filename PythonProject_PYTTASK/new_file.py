@@ -2,4 +2,4 @@
 # Date: 19-06-2025
 
 
-print("Hello world")
+print("Hello new world")
